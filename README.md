@@ -1,6 +1,8 @@
 # ❤️ Heart Disease Prediction App
 
 This is a Machine Learning web application that predicts the likelihood of heart disease using patient data.
+## 🚀 Live App
+👉 https://heart-disease-prediction-ey2tbfrxymffmlwwszxpn.streamlit.app/
 
 ## 🚀 Features
 
